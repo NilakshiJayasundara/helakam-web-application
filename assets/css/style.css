@@ -709,7 +709,11 @@ p.arrival-review span {margin-right: 15px;}
 .feature {padding:110px 0 0px;}
 
 .feature-content,.blog-content{margin-top: 75px;}
-.single-feature,.single-blog {margin-bottom:30px;}
+.single-feature{margin-bottom:30px;
+height:200px
+weight:300px}
+.single-blog {margin-bottom:30px;
+
 
 /*.single-feature-txt */
 .single-feature-txt,.single-blog-txt{margin-top: 25px;}
@@ -734,6 +738,11 @@ span.feature-review {margin-left: 10px;}
         8.  Blog
 --------------------------------------*/
 .blog {padding:80px 0;}
+
+.img{
+    height:200px;
+    weight:300;
+}
 
 /*.single-blog*/
 .single-blog{
